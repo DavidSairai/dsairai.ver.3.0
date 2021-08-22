@@ -1,0 +1,21 @@
+body{
+	background-color: #33FFFF;
+	text-align:center
+}
+
+.sign{
+	text-align: center;font-size:10px; text-shadow:#009; color: black;
+}
+ a:hover{
+	color: red;
+}
+
+.text1{
+	color: Blue;
+	text-decoration : underline;
+	font-style : oblique;
+	font-weight : lighter;
+}
+table{
+	width:80%;
+}

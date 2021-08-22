@@ -1,0 +1,19 @@
+body{background-color :#829cb3;scrollbar-face-color: #829cb3;scrollbar-shadow-color: #829cb3;scrollbar-highlight-color: #829cb3; scrollbar-3d-light-color: white;scrollbar-dark-shadow-color: blue;	scrollbar-base-color: #829cb3;scrollbar-arrow-color: white; font-size:12px; font-family:"Times New Roman",Times,serif; color: White; text-align:center;}
+
+table{
+	border: 1 solid 1;
+	border-color: yellow Yellow;
+	background-color : Navy;
+	margin-top : 150px;color:yellow;
+}
+
+td{	border-color : yellow; background-color: #6495ED; text-align:center;
+A:hover {color:#a0f0ff;}
+
+.sign{
+	font-size:9px;
+	color: #ffffff;
+	text-align:center;
+	font-weight:normal;
+	font : "Times New Roman", Times, serif;
+}

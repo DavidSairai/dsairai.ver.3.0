@@ -1,0 +1,28 @@
+body{
+	background-color : #829cb3;
+	color:yellow;
+	scrollbar-face-color: Silver;
+	scrollbar-shadow-color: #829cb3;
+	scrollbar-highlight-color: #829cb3;
+	scrollbar-3d-light-color: white;
+	scrollbar-dark-shadow-color: blue;
+	scrollbar-base-color: Silver;
+	scrollbar-arrow-color: white;
+	font-size:12px;
+	font-family:"Times New Roman",Times,serif;
+}
+.sign{
+	font-size:10px;
+	color: Purple;
+	text-align:center;
+	font-family:"times new roman";
+	font-weight:normal;
+}
+
+A:hover {color:#a0f0ff;}
+
+a:link{	color:blue}
+
+a:active{color:white;}
+
+a.visited{color:blue}
